@@ -723,11 +723,11 @@
   },
   "ScheduledMessagesWarningQuitRequested": {
     "message": "Vannak üzenetek, amelyeket el kell küldeni. Küldés később csak akkor küldhet üzeneteket, amikor a(z) $1 fut. Biztosan kilép?",
-    "description": ""
+    "description": "$1 is replaced with the localized name for Thunderbird"
   },
   "ScheduledMessagesWarningQuit": {
     "message": "Küldés később csak akkor küldhet üzeneteket, amikor a(z) $1 fut. Kérjük, ne felejtse el újraindítani, mielőtt üzeneteit elküldeni szeretné!",
-    "description": ""
+    "description": "$1 is replaced with the localized name for Thunderbird"
   },
   "IncompatibleEncryptionTitle": {
     "message": "A titkosítási beállítások nem kompatibilisek ezzel: $1",
