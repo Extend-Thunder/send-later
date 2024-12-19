@@ -723,11 +723,11 @@
   },
   "ScheduledMessagesWarningQuitRequested": {
     "message": "Sono presenti dei messaggi con invio programmato. “Invia Dopo” può inviare messaggi solo quando $1 è in esecuzione. Si è sicuri di voler uscire?",
-    "description": ""
+    "description": "$1 is replaced with the localized name for Thunderbird"
   },
   "ScheduledMessagesWarningQuit": {
     "message": "“Invia Dopo” può inviare messaggi solo quando $1 è in esecuzione. Ricordarsi di riavviarlo prima dell'orario programmato per la spedizione dei messaggi!",
-    "description": ""
+    "description": "$1 is replaced with the localized name for Thunderbird"
   },
   "IncompatibleEncryptionTitle": {
     "message": "Impostazioni di crittografia incompatibili con $1",

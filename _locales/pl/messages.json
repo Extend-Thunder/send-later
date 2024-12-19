@@ -679,11 +679,11 @@
   },
   "ScheduledMessagesWarningQuitRequested": {
     "message": "Istnieją wiadomości zaplanowane do wysłania! “Send Later” może je wysłać tylko gdy $1 jest włączony. Czy na pewno chcesz zakończyć?",
-    "description": ""
+    "description": "$1 is replaced with the localized name for Thunderbird"
   },
   "ScheduledMessagesWarningQuit": {
     "message": "“Send Later” może wysłać zaplanowane na później wiadomości tylko gdy $1 jest włączony. Proszę pamiętać o ponownym uruchomieniu przed zaplanowanym czasem wysłania!",
-    "description": ""
+    "description": "$1 is replaced with the localized name for Thunderbird"
   },
   "DSN": {
     "message": "Informuj o stanie dostarczania",

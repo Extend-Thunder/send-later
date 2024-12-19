@@ -723,11 +723,11 @@
   },
   "ScheduledMessagesWarningQuitRequested": {
     "message": "Er zijn berichten ingepland voor verzending. Send Later kan alleen berichten verzenden als $1 actief is. Weet u zeker dat u wilt afsluiten?",
-    "description": ""
+    "description": "$1 is replaced with the localized name for Thunderbird"
   },
   "ScheduledMessagesWarningQuit": {
     "message": "Send Later kan alleen berichten verzenden als $1 actief is. Denk eraan dat het weer moet worden gestart voordat uw berichten voor verzending worden ingepland!",
-    "description": ""
+    "description": "$1 is replaced with the localized name for Thunderbird"
   },
   "IncompatibleEncryptionTitle": {
     "message": "Versleutelingsinstellingen niet compatibel met $1",
