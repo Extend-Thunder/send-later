@@ -640,11 +640,11 @@
   },
   "ScheduledMessagesWarningQuitRequested": {
     "message": "Há mensagens programados para serem enviadas. Enviar mais tarde só pode enviar mensagens quando o $1 está em execução. Você tem certeza que deseja sair?",
-    "description": ""
+    "description": "$1 is replaced with the localized name for Thunderbird"
   },
   "ScheduledMessagesWarningQuit": {
     "message": "Enviar mais tarde só pode enviar mensagens quando o $1 está em execução. Por favor, lembre-se de reiniciá-lo antes do tempo programado para o envio de suas mensagens!",
-    "description": ""
+    "description": "$1 is replaced with the localized name for Thunderbird"
   },
   "DSN": {
     "message": "Notificação de status da entrega",
