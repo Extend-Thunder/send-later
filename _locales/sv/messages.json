@@ -687,11 +687,11 @@
   },
   "ScheduledMessagesWarningQuitRequested": {
     "message": "Det finns meddelanden som har schemalagts för sändning. Skicka Senare kan endast skicka meddelanden när $1 körs. Är du säker på att du vill avsluta?",
-    "description": ""
+    "description": "$1 is replaced with the localized name for Thunderbird"
   },
   "ScheduledMessagesWarningQuit": {
     "message": "Skicka Senare kan endast skicka meddelanden när $1 körs. Kom ihåg att starta om programmet innan dina meddelanden har schemalagts att skickas!",
-    "description": ""
+    "description": "$1 is replaced with the localized name for Thunderbird"
   },
   "IncompatibleEncryptionTitle": {
     "message": "Krypteringsinställningar är inkompatibla med $1",
